@@ -1,0 +1,15 @@
+timestamp,model,hyperparameters,infected_share_final,window_h_50pct,window_h_90pct,window_h_100pct
+2026-10-27 23:18:31,SI simulation p sweep,"start=ABE, p=0.01, n_sims=10",0.7979,312.0,,
+2026-10-27 23:18:31,SI simulation p sweep,"start=ABE, p=0.05, n_sims=10",0.9731,72.0,288.0,
+2026-10-27 23:18:31,SI simulation p sweep,"start=ABE, p=0.1, n_sims=10",0.993,48.0,156.0,
+2026-10-27 23:18:31,SI simulation p sweep,"start=ABE, p=0.5, n_sims=10",1.0,24.0,48.0,576.0
+2026-10-27 23:18:31,SI simulation p sweep,"start=ABE, p=1.0, n_sims=10",1.0,24.0,24.0,168.0
+2026-10-27 23:19:38,SI graph analysis,"start=ABE, p=0.5, n_sims=50",-0.8073,-0.1824,-0.5408,0.5
+2026-10-27 23:20:28,SI graph analysis,"start=ABE, p=0.5, n_sims=50",-0.8073,-0.1824,-0.5408,0.5
+2026-10-27 23:30:28,SI simulation p sweep,"start=CMX, p=0.01, n_sims=10",0.1143,,,
+2026-10-27 23:30:28,SI simulation p sweep,"start=CMX, p=0.05, n_sims=10",0.5469,696.0,,
+2026-10-27 23:30:28,SI simulation p sweep,"start=CMX, p=0.1, n_sims=10",0.4745,,,
+2026-10-27 23:30:28,SI simulation p sweep,"start=CMX, p=0.5, n_sims=10",0.9993,72.0,240.0,
+2026-10-27 23:30:28,SI simulation p sweep,"start=CMX, p=1.0, n_sims=10",1.0,24.0,24.0,168.0
+2026-10-27 23:31:40,SI graph analysis,"start=CMX, p=0.5, n_sims=50",-0.8637,-0.1267,-0.6229,0.5879
+2026-10-27 23:31:44,SI graph analysis,"start=CMX, p=0.5, n_sims=50",-0.8637,-0.1267,-0.6229,0.5879
