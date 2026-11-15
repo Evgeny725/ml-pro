@@ -1,0 +1,3 @@
+timestamp,model,hyperparameters,mse_test,mse_val,baseline_mse_test
+2026-11-15 22:13:09,RegressionMLP_TEST,"{'hidden_size': 512, 'n_hidden': 4, 'activation': 'ReLU', 'optimizer': 'Adam', 'lr': 0.001, 'batch_size': 256, 'epochs': 500, 'input_scaling': 'standardized on train'}",0.0000073,0.0000059,0.0174389
+2026-11-15 22:20:52,RegressionMLP_TEST,"{'hidden_size': 512, 'n_hidden': 4, 'activation': 'GELU', 'optimizer': 'Adam', 'lr': 0.001, 'batch_size': 256, 'epochs': 500, 'input_scaling': 'standardized on train'}",0.0000004,0.0000004,0.0174389
