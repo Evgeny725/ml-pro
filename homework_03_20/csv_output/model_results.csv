@@ -1,0 +1,3 @@
+timestamp,model,hyperparameters,dice_mean_train,dice_mean_val,dice_fish_val,dice_flower_val,dice_gravel_val,dice_sugar_val,best_threshold,dice_mean_val_best_thr,dice_kaggle_mean_best_thr
+2026-11-16 00:40:08,"UNet base_ch=16, 1.94M params","img 192x288, subset 1000 (train 800/val 200), batch 8, Adam lr=0.001, BCE+Dice loss, 12 epochs, early stop patience 4, hflip aug",0.5481,0.5378,0.4813,0.6088,0.4718,0.5895,0.4,0.5438,0.3371
+2026-11-18 21:16:59,"UNet base_ch=16, 1.94M params","img 192x288, subset 2000 (train 1600/val 400), batch 8, Adam lr=0.001, BCE+Dice loss, 14 epochs, early stop patience 3, hflip aug",0.5782,0.56,0.5035,0.6181,0.5087,0.6098,0.4,0.5624,0.368
