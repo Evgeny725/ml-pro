@@ -1,0 +1,2 @@
+timestamp,model,hyperparameters,accuracy,precision,recall,f1,roc_auc
+2026-11-21 23:25:30,LogisticRegression (IMDB tf-idf),"C=0.01, ngram=(1,2), min_df=10, max_df=0.7, norm=None",0.8922,0.8875,0.8991,0.8933,0.955
